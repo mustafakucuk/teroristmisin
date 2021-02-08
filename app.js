@@ -23,7 +23,7 @@ var app = new Vue({
                             no: {
                                 q: 'Herhangi bir insan hakkını savunuyor musun?',
                                 yes: false,
-                                no: 'Hala terörist olma ihtiamliniz var, henüz tam liste açıklanmadı.'
+                                no: 'Hala terörist olma ihtimaliniz var, henüz tam liste açıklanmadı.'
                             }
                         }
                     },
